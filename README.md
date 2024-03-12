@@ -15,3 +15,8 @@ in docker with arbitrary arguments passed to jekyll.
 jekyll.docker new resume.zach.ember.us.jekyll
 ```
 
+Due to an error with the `webrick` Gem, run the following once after
+intializing the blank site:
+```
+docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll sh -c "bundle add webrick"
+```

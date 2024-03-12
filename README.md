@@ -20,3 +20,9 @@ intializing the blank site:
 ```
 docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll sh -c "bundle add webrick"
 ```
+
+# Serving
+
+```
+jekyll.docker serve
+```

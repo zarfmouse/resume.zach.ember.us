@@ -1,5 +1,5 @@
 #!/bin/sh
 export ARGS=$@
-docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll sh -c "chown -R jekyll /usr/gem/ && bundle update && jekyll $ARGS"
+docker run --rm --volume="$PWD:/srv/jekyll" -it -p 4000:4000 jekyll/jekyll sh -c "chown -R jekyll /usr/gem/ && bundle update && jekyll $ARGS"
 
 

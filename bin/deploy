@@ -1,0 +1,9 @@
+#!/bin/sh
+SITE_NAME="resume.zach.ember.us"
+THIS_DIR=`dirname $(readlink -f $0)`
+cd $THIS_DIR/../$SITE_NAME".jekyll/_site"
+rsync -aP . "$SITE_NAME:~/$SITE_NAME/" --delete
+
+
+
+

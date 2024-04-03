@@ -87,10 +87,6 @@ footer a:not(.nav-link) {
   text-decoration: none;
   cursor: pointer; }
 
-.print-only {
-    display: none;
-}
-
 @media (min-width: 48em) {
   .site-title {
     float: left; }
@@ -132,26 +128,22 @@ footer a:not(.nav-link) {
     margin: 0 !important; }
   .my-5.p-5 {
     padding: 1.5rem 0 !important; }
-  .about-section {
-    padding: 0 !important; }
+  .about-section,
   .skills-section,
   .work-experience-section,
   .education-section,
   .portfolio-section,
   .reference-section,
   .contact-section {
-    padding: 0 !important; }
+      padding: 0 !important; }
+  .my-5 {
+      margin-top: 0 !important;
+      margin-bottom: 0 !important;
+  }
+  .my-5.p-5 {
+      padding-top: 0 !important;
+      padding-bottom: 0 !important;
+  }  
   .page-break {
-    padding-top: 5rem;
-    page-break-before: always; } 
-  .no-print {
-      display: none;
-  }
-  span.print-only {
-      display: inline;
-  }
-  div.print-only {
-      display: block;
-  }
-
+      page-break-before: always; } 
 }

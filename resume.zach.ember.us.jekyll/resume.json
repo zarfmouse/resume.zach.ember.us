@@ -246,12 +246,12 @@
     {
       "name": "Full Stack Web Development",
       "level": "Expert",
-      "keywords": ["HTML5", "CSS3", "JavaScript", "Responsive Design", "Accessibility"]
+      "keywords": ["HTML5", "CSS3", "JavaScript", "Responsive Design", "Accessibility", "Bootstrap"]
     },
     {
       "name": "Business Intelligence (BI)",
       "level": "Expert",
-      "keywords": ["SQL", "Tableau", "Spreadsheets", "Data Analysis", "Reporting", "ETL", "OLAP", "Normalization", "Denormalization", "Database Administrator (DBA)"]
+      "keywords": ["SQL", "Tableau", "Google Sheets", "Data Analysis", "Reporting", "ETL", "OLAP", "Normalization", "Denormalization", "Database Administrator (DBA)"]
     },
     {
       "name": "Project Management",
@@ -276,7 +276,7 @@
     {
       "name": "PHP",
       "level": "Expert",
-      "keywords": ["Zend Certified Engineer", "PHP5", "PHP7"]
+      "keywords": ["Zend Certified Engineer", "PHP5", "PHP7", "Doctrine ORM"]
     },    
     {
       "name": "Perl",
@@ -314,11 +314,6 @@
       "keywords": ["ffmpeg", "mplayer", "transcoding", "MediaCapture", "HTTP Live Streaming (HLS)", "AWS MediaConvert", "Closed Captioning", "Subtitles"]
     },    
     {
-      "name": "Google Sheets",
-      "level": "Expert",
-      "keywords": ["API", "Pivot Tables", "Google Apps Script", "Graphs", "Import", "Data Validation", "Conditional Formatting"]
-    },
-    {
       "name": "WordPress",
       "level": "Proficient",
       "keywords": ["Admin", "Customization", "Elementor", "Plugins", "Themes"]
@@ -341,7 +336,7 @@
     {
       "name": "C++",
       "level": "Proficient",
-      "keywords": ["STL"]
+      "keywords": ["STL", "C++98"]
     },
     {
       "name": "Git",
@@ -354,10 +349,6 @@
       "keywords": ["Docker", "OpenShift", "Kubernetes"]
     },
     {
-      "name": "Tableau",
-      "level": "Competent",
-      "keywords": []
-    },    {
       "name": "Java",
       "level": "Competent",
       "keywords": []
@@ -367,11 +358,6 @@
       "level": "Competent",
       "keywords": []
     },
-    {
-      "name": "Bootstrap CSS",
-      "level": "Competent",
-      "keywords": []
-    },        
   ],
   "languages": [
     {

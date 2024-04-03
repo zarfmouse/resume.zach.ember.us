@@ -374,6 +374,7 @@
   "projects": [],
   "meta": {
     "version": "v1.0.0",
-    "canonical": "https://resume.zach.ember.us/resume.json"
+    "canonical": "https://resume.zach.ember.us/resume.json",
+    "preview": "https://resume.zach.ember.us/images/preview.png"
   }
 }

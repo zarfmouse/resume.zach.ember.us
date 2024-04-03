@@ -87,6 +87,10 @@ footer a:not(.nav-link) {
   text-decoration: none;
   cursor: pointer; }
 
+.print-only {
+    display: none;
+}
+
 @media (min-width: 48em) {
   .site-title {
     float: left; }
@@ -139,4 +143,15 @@ footer a:not(.nav-link) {
     padding: 0 !important; }
   .page-break {
     padding-top: 5rem;
-    page-break-before: always; } }
+    page-break-before: always; } 
+  .no-print {
+      display: none;
+  }
+  span.print-only {
+      display: inline;
+  }
+  div.print-only {
+      display: block;
+  }
+
+}

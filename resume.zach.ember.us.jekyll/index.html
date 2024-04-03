@@ -66,13 +66,13 @@
                 <nav role="navigation">
                   <ul class="nav justify-content-center">
 		   {% for profile in site.data.resume.basics.profiles %}
-                    <li class="nav-item"><a class="nav-link" href="{{ profile.url }}" title="{{ profile.name }}"><i class="{{ profile.fontawesome }}"></i><span class="menu-title sr-only">{{ profile.name }}</span></a>
+                    <li class="nav-item"><a class="nav-link" href="{{ profile.url }}" title="{{ profile.network }}"><i class="{{ profile.fontawesome }}"></i><span class="menu-title sr-only">{{ profile.network }}</span></a>
                     </li>
 		   {% endfor %}
                   </ul>
                 </nav>
               </div>
-              <div class="d-print-none"><a class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3" href="material-resume.pdf" data-aos="fade-right" data-aos-delay="700">Download CV</a><a class="btn btn-info btn-lg shadow-sm mt-1" href="#contact" data-aos="fade-left" data-aos-delay="700">Hire Me</a></div>
+              <div class="d-print-none"><a class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3" target="_blank" href="resume.pdf" data-aos="fade-right" data-aos-delay="700">Resume PDF</a><a class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3" target="_blank" href="resume.json" data-aos="fade-right" data-aos-delay="700">Resume JSON</a></div>
             </div>
           </div>
         </div>

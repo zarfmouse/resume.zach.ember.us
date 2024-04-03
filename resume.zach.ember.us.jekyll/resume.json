@@ -1,0 +1,393 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Zachary Miller-Ember",
+    "label": "Business Process and Software Development Consultant",
+    "image": "https://resume.zach.ember.us/images/avatar.png",
+    "email": "zach@ember.us",
+    "phone": "773-808-0510",
+    "url": "https://resume.zach.ember.us/",
+    "summary": "I am an expert in the agile business processes that empower elite software engineering teams to create transformative web applications.\n\nI have been writing data-driven web applications since 1993, when both I and the web were young. I am a jack-of-all-trades, with extensive experience with software engineering, system administration, requirements analysis, agile project management, hiring processes, human resource allocation, revenue operations, customer relationship management, sales and marketing process, customer service, and business intelligence. I love solving hard problems, and my passion is figuring out the best approaches to adapting Agile/Scrum methodologies to a completely distributed workforce. \n\nIn my spare time I play with power tools, board games, bicycles, harmonicas, and audio gear.",
+    "location": {
+      "countryCode": "US",
+      "address": "Chicago, IL, United States"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "zach-ember",
+        "url": "https://www.linkedin.com/in/zach-ember/",
+        "fontawesome": "fab fa-linkedin",
+      },
+      {
+        "network": "GitHub",
+        "username": "zarfmouse",
+        "url": "https://www.github.com/zarfmouse",
+        "fontawesome": "fab fa-github",
+      },
+      {
+        "network": "Home",
+        "username": "zach.ember",
+        "url": "https://zach.ember.us",
+        "fontawesome": "fa fa-home",
+      },
+    ]
+  },
+  "work": [
+    {
+      "name": "42 Lines Inc",
+      "position": "Director of Business Operations",
+      "startDate": "2020-08-31",
+      "endDate": "2022-08-31",
+      "highlights": [],
+      "summary": "As our company moved from bespoke contract software engineering to a SaaS product sales strategy with its Harmonize product for Learning Management Systems, I took on Revenue Operations (RevOps) duties along with assisting in the hiring process for Sales and Marketing roles. My existing business process duties expanded to include the administration and integration of Salesforce, HubSpot, ZoomInfo, and FreshDesk. I designed sales and marketing automations reports, workflows, and reports in consultation with the Directors of Sales and Marketing and the CEO. I reported sales and marketing metrics to the CEO.",
+      "url": "https://www.linkedin.com/company/42lines/",
+      "location": "Chicago, Illinois, United States"
+    },
+    {
+      "name": "42 Lines Inc",
+      "position": "Director of Project Management",
+      "startDate": "2018-05-31",
+      "endDate": "2020-08-31",
+      "highlights": [],
+      "summary": "As our bespoke contract software engineering company grew to support multiple clients I was tasked with expanding the Project Management Department, adapting our processes to allow for simultaneous sprints, human resource management across sprints, hiring processes for new roles, expansion of the company to 50 employees. Massively increased custom reporting in Google Sheets and Tableau using data extracted from various business process APIs.\n\nI also served as backup Business Intelligence Analyst, Sales Department Manager, and QA Department Manager during times when these roles were empty.",
+      "url": "https://www.linkedin.com/company/42lines/",
+      "location": "Chicago, Illinois, United States"
+    },
+    {
+      "name": "42 Lines Inc",
+      "position": "Project Manager",
+      "startDate": "2010-05-31",
+      "endDate": "2018-05-31",
+      "highlights": [],
+      "summary": "I managed a team of 20 fully remote software engineers, QA testers, designers, and devops engineers to formulate iteration plans and deliver on time. I designed custom workflows in JIRA to support Scrum processes for a fully remote team. I led the transformation of the company from ad hoc workflows to well managed Scrum. I was the administrator for entire self-hosted Atlassian Suite (JIRA, Confluence, Crowd, Bamboo, Fisheye/Crucible). I designed and maintained company policies relating to Hiring, Onboarding, Offboarding, and HR. I ran retrospectives, oversaw sprint metrics, reported directly to the CEO. I developed billing software to generate invoices from JIRA data. I developed many API integrations between project management tools. I did event management for semi-annual company retreat events that brought our fully remote employees together for team building. \n\nThanks to my unique Digital Video experience I also designed and implemented a custom streaming video infrastructure as well as an HTML5 client side video recording interface. I was called upon to analyze and modify PHP code for our clients since our teams' expertise was Java.",
+      "url": "https://www.linkedin.com/company/42lines/",
+      "location": "Chicago, Illinois, United States"
+    },
+    {
+      "name": "CAM Systems",
+      "position": "Software Development Consultant",
+      "startDate": "2017-11-30",
+      "endDate": "2019-10-31",
+      "highlights": [],
+      "summary": "Developed a Perl daemon in OpenShift/Kubernetes/Docker infrastructure to run periodic MySQL queries to detect certain data events and log them as JIRA tickets. Provided general assistance with application migration and deployment in OpenShift/Kubernetes/Docker.",
+      "url": "",
+      "location": "Oak Park, Illinois, United States"
+    },
+    {
+      "name": "G Media Pty Ltd",
+      "position": "Web Development Manager",
+      "startDate": "2009-01-31",
+      "endDate": "2010-05-31",
+      "highlights": [],
+      "summary": "Managed all aspected of software development for a multimedia publishing company. \n\nHired and managed a team of 5 direct reports (2 full stack programmers, 1 front-end engineer, 1 designer) while acting as lead programmer. Agile+XP methodology. Reported directly to the CEO. Produced revenue and site usage reports to inform, implement, and measure marketing initiatives.",
+      "url": "https://www.linkedin.com/company/g-media-pty-ltd/",
+      "location": "Melbourne, Victoria, Australia"
+    },
+    {
+      "name": "G Media Pty Ltd",
+      "position": "Lead Programmer",
+      "startDate": "2007-11-30",
+      "endDate": "2009-01-31",
+      "highlights": [],
+      "summary": "Develop frameworks and standards for next generation content management. Develop and maintain internal software systems for asset management, customer support, marketing, project management, customer support, payments processing, and continuous integration use. Architect for XML/XLST based content management system with an emphasis on multi-lingual content delivery (internationalization/localization - i18n/l10n) and efficient separation of front-end and back-end concerns. Extensive MySQL optimization.",
+      "url": "https://www.linkedin.com/company/g-media-pty-ltd/",
+      "location": "Melbourne, Victoria, Australia"
+    },
+    {
+      "name": "G Media Pty Ltd",
+      "position": "Features Programmer",
+      "startDate": "2005-02-28",
+      "endDate": "2007-11-30",
+      "highlights": [],
+      "summary": "Added new features to existing in-house software as needed. Created Web 2.0 lists for customers, video thumbnail extraction with mplayer, streaming video infrastructure with ffmpeg and jwplayer, custom PHP content delivery network with distributed zip file creation and on-demand watermarking, maintenance of pre-production and post-production database systems, MySQL optimization.",
+      "url": "https://www.linkedin.com/company/g-media-pty-ltd/",
+      "location": "Melbourne, Victoria, Australia"
+    },
+    {
+      "name": "G Media Pty Ltd",
+      "position": "Consultant",
+      "startDate": "2004-01-31",
+      "endDate": "2005-02-28",
+      "highlights": [],
+      "summary": "Created customizable HR/pre-production database with MySQL and Perl.",
+      "url": "https://www.linkedin.com/company/g-media-pty-ltd/",
+      "location": "Urbana, Illinois, United States"
+    },
+    {
+      "name": "Porcupine Mountains Music Festival",
+      "position": "Festival Director",
+      "startDate": "2005-01-31",
+      "endDate": "2007-08-31",
+      "highlights": [],
+      "summary": "Created a 3 day folk music festival in a state park in rural Upper Peninsula of Michigan. Along with 1 other volunteer festival directory I was the sole paid employee responsible for creation, talent booking, site logistics, web site design, budgeting, marketing, and coordination of over 100 volunteers.\n\nThis was a 25% time job. The festival continues to operate annually after over 15 years.",
+      "url": "",
+      "location": "Ontonagon County, Michigan, United States"
+    },
+    {
+      "name": "Champaign-Urbana Community Wireless Network",
+      "position": "Co-Founder",
+      "startDate": "2004-01-31",
+      "endDate": "2005-02-28",
+      "highlights": [],
+      "summary": "Non-profit, grant-funded, initiative to implement a mesh wireless routing protocol called Hazy-Sighted Link State (HSLS). I helped specify the overall architecture, administered the testing platform, performed field installations, and developed network visualization and configuration software in C. I was a technical representative for the project at conferences in Seattle, Washington DC, and Denmark and in meetings at the Federal Communication Commission and with several US Congresspeople.",
+      "url": "",
+      "location": "Urbana, Illinois, United States"
+    },
+    {
+      "name": "National Center for Supercomputing Applications",
+      "position": "Systems Engineer",
+      "startDate": "2001-11-30",
+      "endDate": "2004-01-31",
+      "highlights": [],
+      "summary": "Manage heterogeneous collection of machines for Hierarchical Data Format group and Caterpillar research group including HPUX, Solaris, Linux, IRIX, and Windows machines. Problem solver for research groups with special computing needs not otherwise met by the normal support structure.",
+      "url": "https://www.linkedin.com/company/ncsaatillinois/",
+      "location": "Champaign, Illinois, United States"
+    },
+    {
+      "name": "Slots.com",
+      "position": "Chief Technology Officer",
+      "startDate": "2000-01-31",
+      "endDate": "2001-11-30",
+      "highlights": [],
+      "summary": "Dotcom startup with an early vision of \"interactive advertising\". In the days of banner ads this company sought to replace banner ads with interactive slot machine games that would reward engaged prospective customers with coupons to drive impressions to conversions more efficiently. \n\nI created the Java applet based web front end as well as the Apache/Perl based server backend. I also specified, acquired, and maintained the server infrastructure.",
+      "url": "",
+      "location": "Urbana, Illinois, United States"
+    },
+    {
+      "name": "Zach Miller Consulting",
+      "position": "Software Developer",
+      "startDate": "1999-05-31",
+      "endDate": "2001-11-30",
+      "highlights": [],
+      "summary": "Various clients. Developed C++/Apache integration for a C++ web application framework. Developed modular Perl-based \"meta-search\" engine for educational purposes - parsing and comparing search results from multiple search engines.",
+      "url": "",
+      "location": "Urbana, Illinois, United States"
+    },
+    {
+      "name": "US Geological Survey",
+      "position": "Lead Programmer",
+      "startDate": "1995-09-30",
+      "endDate": "1999-05-31",
+      "highlights": [],
+      "summary": "Web programmer and software engineer for the Illinois District of the Water Resources Division. Designed and built a modular system for distributing real-time stream gauge data to the public including both CSV/TSV files and graphs. Our team was one of the first government agencies to put real time data on the Web. I was lead programmer on a team of seven. I was also involved in system administration and LAN design within the Illinois district and at the national headquarters.",
+      "url": "https://www.linkedin.com/company/us-generating/",
+      "location": "Urbana, Illinois, United States"
+    },
+    {
+      "name": "Illinois Mathematics and Science Academy",
+      "position": "Network Systems Administrator",
+      "startDate": "1993-04-30",
+      "endDate": "1995-08-31",
+      "highlights": [],
+      "summary": "Lead Solaris and Netware systems administrator. My duties included maintenance, upgrade, and development of several networked machines with a user base of over 1000 users. Implementation of one of the earliest school websites. Member of a 3 person team which designed and installed a Solaris and Netware server cluster for the students and faculty of IMSA. Played a leading role in designing a campus wide ethernet LAN with several hundred drops, several subnets, multiple protocol support, and a high speed server backbone. Assisted in hiring process for full time system administrators. Coordinated student network system administrator program. Maintained a collection of open source tools.",
+      "url": "https://www.linkedin.com/school/illinois-mathamatics-&-science-academy/",
+      "location": "Aurora, Illinois, United States"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Urbana Champaign Independent Media Center",
+      "position": "Co-Founder, Spokesperson",
+      "startDate": "2001-09-30",
+      "endDate": "2005-08-31",
+      "summary": "I was a co-founder of this non-profit organization and volunteered with all aspects of the organizations operation. I was the primary web application maintainer, systems administrator, and on-site network administrator. I helped manage our Radio coordinator position. I was the spokesperson for the live performance booking working group and I booked a series of folk music concerts. I was the note taker, and oversaw the consensus process for membership meetings. Through this organization I ran a volunteer community web hosting service.",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/1084328"
+    },
+    {
+      "organization": "PRAIRIE AIR INCORPORATED",
+      "position": "Associates Committee Chair",
+      "startDate": "1996-12-31",
+      "endDate": "2002-12-31",
+      "summary": "I volunteered to run the Associates Committee and Associates Executive Committee at this community radio station. My primary responsibilities were to develop and maintain volunteer committee standard operating procedures, bylaws, and policies; and chair the all-volunteer meetings of the organization. I was also the host of several different weekly music and public affairs radio programs during this time.I volunteered to run the Associates Committee and Associates Executive Committee at this community radio station. My primary responsibilities were to develop and maintain volunteer committee standard operating procedures, bylaws, and policies; and chair the all-volunteer meetings of the organization. I was also the host of several different weekly music and public affairs radio programs during this time.",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/55305083"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Illinois at Urbana-Champaign",
+      "area": "Computer Science",
+      "studyType": "BS",
+      "startDate": "1995-08-31",
+      "endDate": "2000-06-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Illinois at Urbana-Champaign",
+      "area": "Linguistics",
+      "studyType": "BA",
+      "startDate": "1995-08-31",
+      "endDate": "2000-06-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Illinois Mathematics and Science Academy",
+      "area": "",
+      "studyType": "High School",
+      "startDate": "1993-08-31",
+      "endDate": "1995-06-30",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Agile Development",
+      "level": "Expert",
+      "keywords": ["Scrum", "Kanban", "Extreme Programming (XP)", "Distributed Teams", "ScrumMaster", "Retrospectives", "Burndown", "Velocity", "Planning", "Commitment", "Points", "Stories", "Pairing"]
+    },
+    {
+      "name": "Full Stack Web Development",
+      "level": "Expert",
+      "keywords": ["HTML5", "CSS3", "JavaScript", "Responsive Design", "Accessibility"]
+    },
+    {
+      "name": "Business Intelligence (BI)",
+      "level": "Expert",
+      "keywords": ["SQL", "Tableau", "Spreadsheets", "Data Analysis", "Reporting", "ETL", "OLAP", "Normalization", "Denormalization", "Database Administrator (DBA)"]
+    },
+    {
+      "name": "Project Management",
+      "level": "Expert",
+      "keywords": ["Agile", "Scrum", "Kanban", "Ticketing Systems", "Workflows", "Human Resource Allocation", "Estimation", "Retrospective", "Continuous Improvement", "Projections", "Portfolio Management"]
+    },    
+    {
+      "name": "Hiring Process",
+      "level": "Expert",
+      "keywords": ["Recruiting", "Job Description", "Pre-Screen", "Interview", "Practical Test"]
+    },
+    {
+      "name": "Software Development",
+      "level": "Expert",
+      "keywords": ["Patterns", "YAGNI", "DRY", "OOP", "Perl", "Python", "PHP", "Security", "Model/View/Controller (MVC)", "Requirements", "Design", "Implementation", "Testing", "Deployment", "Support", "Updates", "Reliability", "Performance", "Security"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Expert",
+      "keywords": ["Query Optimization", "Index Optimization", "ETL", "Database Administrator (DBA)", "Schema Design", "Data Modeling"]
+    },    
+    {
+      "name": "PHP",
+      "level": "Expert",
+      "keywords": ["Zend Certified Engineer", "PHP5", "PHP7"]
+    },    
+    {
+      "name": "Perl",
+      "level": "Expert",
+      "keywords": ["Modern Perl", "Embedding", "mod_perl", "CPAN"]
+    },    
+    {
+      "name": "Revenue Operations (RevOps)",
+      "level": "Expert",
+      "keywords": ["Salesforce", "HubSpot", "DocuSign", "CRM", "Integration", "Configure, Price, Quote (CPQ)", "FreshDesk", "Reporting", "Forecasting", "Sales Process"]
+    },        
+    {
+      "name": "Salesforce.com",
+      "level": "Expert",
+      "keywords": ['Apex', 'Workflows', 'Process Builder', 'Lightning', 'Integration', 'Migration', 'RevOps']
+    },
+    {
+      "name": "HubSpot Marketing Hub",
+      "level": "Expert",
+      "keywords": ["Workflows", "Automation", "Configuration", "Administration", "Integration", "Campaigns", "Sync"]
+    },
+    {
+      "name": "Atlassian Suite",
+      "level": "Expert",
+      "keywords": ["JIRA", "Confluence", "Crown", "Fisheye/Crucible", "Trello"]
+    },
+    {
+      "name": "Web Services",
+      "level": "Expert",
+      "keywords": ["REST", "SOAP", "JSON", "Integration", "Authentication", "API", "RSS"]
+    },
+    {
+      "name": "Digital Video",
+      "level": "Expert",
+      "keywords": ["ffmpeg", "mplayer", "transcoding", "MediaCapture", "HTTP Live Streaming (HLS)", "AWS MediaConvert", "Closed Captioning", "Subtitles"]
+    },    
+    {
+      "name": "Google Sheets",
+      "level": "Expert",
+      "keywords": ["API", "Pivot Tables", "Google Apps Script", "Graphs", "Import", "Data Validation", "Conditional Formatting"]
+    },
+    {
+      "name": "WordPress",
+      "level": "Proficient",
+      "keywords": ["Admin", "Customization", "Elementor", "Plugins", "Themes"]
+    },    
+    {
+      "name": "Jekyll",
+      "level": "Proficient",
+      "keywords": ["Static Website", "JSON", "Liquid"]
+    },
+    {
+      "name": "XML",
+      "level": "Proficient",
+      "keywords": ["Extensible Stylesheets (XSL)", "XSL Transformations (XSLT)", "XML Path Language (XPath)", "XML Schema (XSD)"]
+    },
+    {
+      "name": "Systems and Network Administration",
+      "level": "Proficient",
+      "keywords": ["Linux", "Security", "Reliability", "DevOps", "AWS", "Firewall", "LAN", "Routing"]
+    },
+    {
+      "name": "C++",
+      "level": "Proficient",
+      "keywords": ["STL"]
+    },
+    {
+      "name": "Git",
+      "level": "Proficient",
+      "keywords": ["Branch", "Merge", "Hooks", "Diff", "Blame", "Rebase"]
+    },
+    {
+      "name": "Containerization",
+      "level": "Competent",
+      "keywords": ["Docker", "OpenShift", "Kubernetes"]
+    },
+    {
+      "name": "Tableau",
+      "level": "Competent",
+      "keywords": []
+    },    {
+      "name": "Java",
+      "level": "Competent",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "Competent",
+      "keywords": []
+    },
+    {
+      "name": "Bootstrap CSS",
+      "level": "Competent",
+      "keywords": []
+    },        
+  ],
+  "languages": [
+    {
+      "fluency": "Native Speaker",
+      "language": "English"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "German"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://resume.zach.ember.us/resume.json"
+  }
+}

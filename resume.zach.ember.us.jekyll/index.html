@@ -63,7 +63,7 @@
       <div class="cover bg-image"><img src="images/header-background.png"  width="1600" height="685" />
         <div class="mask" style="background-color: rgba(0, 0, 0, 0.5);backdrop-filter: blur(2px);">
           <div class="text-center p-5">
-            <div class="avatar p-1"><img class="img-thumbnail shadow-2-strong" src="images/avatar.png" width="160" height="160"/><img class="img-thumbnail shadow-2-strong d-none d-print-inline" src="images/qr.png" width="160" height="160"/></div>
+            <div class="avatar p-1"><img class="img-thumbnail shadow-2-strong" src="{{ site.data.resume.basics.image }}" width="160" height="160"/><img class="img-thumbnail shadow-2-strong d-none d-print-inline" src="{{ site.data.resume.meta.qr }}" width="160" height="160"/></div>
             <div class="header-bio mt-3">
               <div data-aos="zoom-in" data-aos-delay="0">
                 <h2 class="h1">{{ site.data.resume.basics.name }}</h2>
@@ -79,7 +79,7 @@
                   </ul>
                 </nav>
               </div>
-              <div class="d-print-none"><a class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3" target="_blank" href="zach-ember-resume.pdf" data-aos="fade-right" data-aos-delay="700">Resume PDF</a><a class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3" target="_blank" href="resume.json" data-aos="fade-right" data-aos-delay="700">Resume JSON</a></div>
+              <div class="d-print-none"><a class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3" target="_blank" href="{{ site.data.resume.meta.pdf }}" data-aos="fade-right" data-aos-delay="700">Resume PDF</a><a class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3" target="_blank" href="{{ site.data.resume.meta.canonical }}" data-aos="fade-right" data-aos-delay="700">Resume JSON</a></div>
             </div>
           </div>
         </div>
@@ -96,24 +96,36 @@
         <div class="col-md-5 offset-lg-1">
           <div class="row mt-2">
             <h2 class="h2 fw-light mb-4">Bio</h2>
-            <div class="col-sm-5">
-              <div class="pb-2 fw-bolder"><i class="far fa-envelope pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Email</div>
+	    <div class="col-sm-5">
+              <div class="pb-2 fw-bolder"><i class="fas fa-genderless pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Pronouns</div>
             </div>
             <div class="col-sm-7">
-              <div class="pb-2">{{ site.data.resume.basics.email }}</div>
-            </div>
+              <div class="pb-2">{{ site.data.resume.basics.pronouns }}</div>
+            </div>	    
             <div class="col-sm-5">
-              <div class="pb-2 fw-bolder"><i class="fas fa-phone pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Phone</div>
+              <div class="pb-2 fw-bolder"><i class="fas fa-envelope pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Email</div>
             </div>
             <div class="col-sm-7">
-              <div class="pb-2">{{ site.data.resume.basics.phone }}</div>
+              <div class="pb-2"><a href="mailto:{{ site.data.resume.basics.email }}">{{ site.data.resume.basics.email }}</a></div>
             </div>
             <div class="col-sm-5">
-              <div class="pb-2 fw-bolder"><i class="fas fa-map-marker-alt pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Location</div>
+              <div class="pb-2 fw-bolder"><i class="fas fa-phone pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Mobile Phone</div>
+            </div>
+            <div class="col-sm-7">
+              <div class="pb-2"><a href="tel:{{ site.data.resume.basics.phone }}">{{ site.data.resume.basics.phone }}</a></div>
+            </div>
+            <div class="col-sm-5">
+              <div class="pb-2 fw-bolder"><i class="fas fa-mail-bulk pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Mailing Address</div>
             </div>
             <div class="col-sm-7">
               <div class="pb-2">{{ site.data.resume.basics.location.address }}</div>
             </div>
+            <div class="col-sm-5">
+              <div class="pb-2 fw-bolder"><i class="fas fa-laptop-house pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Home/Office</div>
+            </div>
+            <div class="col-sm-7">
+              <div class="pb-2">{{ site.data.resume.basics.location.city }}, {{ site.data.resume.basics.location.postalCode }}</div>
+            </div>	    
           </div>
         </div>
       </div>
@@ -205,6 +217,7 @@
           <div class="mb-1">&copy; {{ 'now' | date: "%Y" }} {{ site.data.resume.basics.name }}. All rights reserved.</div>
           <div>Template - <a href="https://templateflip.com/templates/material-resume/" target="_blank">TemplateFlip Material Resume</a></div>
 	  <div>Background - <a href="https://upload.wikimedia.org/wikipedia/commons/c/ce/Technetium_spectrum_visible.png" target="_blank">Technetium Spectral Lines</a></div>
+	  <div><a href="{{ site.data.resume.meta.sourcecode }}" target="_blank">Source Code</a></div>
         </div>
       </div>
     </footer>

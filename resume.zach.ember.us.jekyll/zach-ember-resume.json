@@ -2,35 +2,51 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Zachary C. Miller-Ember",
+    "pronouns": "they/he",  
     "label": "Business Process and Software Development Consultant",
-    "image": "https://resume.zach.ember.us/images/avatar.png",
+    "image": "https://gravatar.com/userimage/28071505/30b7f5acce18be394a0c2e0223017935.jpeg?size=400",
     "email": "zach@ember.us",
-    "phone": "773-808-0510",
+    "phone": "+1-773-808-0510",
     "url": "https://resume.zach.ember.us/",
     "summary": "I am an expert in the agile business processes that empower elite software engineering teams to create transformative web applications.\n\nI have been writing data-driven web applications since 1993, when both I and the web were young. I am a jack-of-all-trades, with extensive experience with software engineering, system administration, requirements analysis, agile project management, hiring processes, human resource allocation, revenue operations, customer relationship management, sales and marketing process, customer service, and business intelligence. I love solving hard problems, and my passion is figuring out the best approaches to adapting Agile/Scrum methodologies to a completely distributed workforce. \n\nIn my spare time I play with power tools, board games, bicycles, harmonicas, and audio gear.",
-    "location": {
-      "countryCode": "US",
-      "address": "Chicago, IL, United States"
+      "location": {
+        "countryCode": "US",
+	"address": "2045 W Grand Ave Ste B\nPMB 61941\nChicago, IL 60612-1577",
+	"postalCode": "IL 60304",
+	"city": "Oak Park",  
+	"region": "Chicago–Naperville–Elgin, IL–IN",
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "zach-ember",
         "url": "https://www.linkedin.com/in/zach-ember/",
-        "fontawesome": "fab fa-linkedin",
+        "fontawesome": "fab fa-linkedin"
       },
       {
         "network": "GitHub",
         "username": "zarfmouse",
         "url": "https://www.github.com/zarfmouse",
-        "fontawesome": "fab fa-github",
+        "fontawesome": "fab fa-github"
       },
       {
         "network": "Home",
         "username": "zach.ember",
         "url": "https://zach.ember.us",
-        "fontawesome": "fa fa-home",
+        "fontawesome": "fa fa-home"
       },
+      {
+        "network": "vCard",
+        "username": "zach-ember",
+        "url": "https://resume.zach.ember.us/zach-ember-contact.vcf",
+        "fontawesome": "fa fa-address-card"
+      },		
+      {
+        "network": "Calendly",
+        "username": "zach-ember",
+        "url": "https://calendly.com/zach-ember/",
+        "fontawesome": "fa fa-calendar-plus"
+      },	
     ]
   },
   "work": [
@@ -374,7 +390,9 @@
   "projects": [],
   "meta": {
     "version": "v1.0.0",
-    "canonical": "https://resume.zach.ember.us/resume.json",
-    "preview": "https://resume.zach.ember.us/images/preview.png"
+    "canonical": "https://resume.zach.ember.us/zach-ember-resume.json",
+    "preview": "https://resume.zach.ember.us/images/preview.png",
+    "pdf": "https://resume.zach.ember.us/zach-ember-resume.pdf",
+    "qr": "https://resume.zach.ember.us/images/qr.png",
   }
 }

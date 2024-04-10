@@ -420,6 +420,16 @@
    ],
    "work" : [
       {
+         "endDate" : "present",
+         "highlights" : [],
+         "location" : "Oak Park, Illinois, United States",
+         "name" : "Technetium Star",
+         "position" : "Owner",
+         "startDate" : "2023-02-01",
+         "summary" : "I have begun building a software development consulting business. I offer my clients analysis, solution, implementation, and maintenance in the areas of website development, software development, software integration, devops consulting, SOHO network configuration, CRM/RevOps consulting.",
+         "url" : "https://technetiumstar.com"
+      },      
+      {
          "endDate" : "2022-08-31",
          "highlights" : [],
          "location" : "Chicago, Illinois, United States",

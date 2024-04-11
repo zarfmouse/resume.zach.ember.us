@@ -96,6 +96,7 @@
       "pdf" : "https://resume.zach.ember.us/zach-ember-resume.pdf",
       "preview" : "https://resume.zach.ember.us/images/preview.png",
       "qr" : "https://resume.zach.ember.us/images/qr.png",
+      "sourcecode": "https://github.com/zarfmouse/resume.zach.ember.us",
       "version" : "v1.0.0"
    },
    "projects" : [],

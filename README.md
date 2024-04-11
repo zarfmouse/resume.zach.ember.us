@@ -95,5 +95,7 @@ The PDF version of the resume is currently generated simply with the
 process that generates this automatically upon changes to the jekyll
 tree.
 
+### QR Code
 
-
+The print version of the resume has a QR code on it that links back to
+the website. That was made using https://www.qrcode-monkey.com/

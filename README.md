@@ -64,6 +64,7 @@ bin/jekyll.docker.
 
 https://jsonresume.org/
 https://github.com/jsonresume
+https://resume.zach.ember.us/zach-ember-resume.json
 
 I've had to extend this standard by adding some additional
 properties. I'd like to find ways to bring the JSON this page serves

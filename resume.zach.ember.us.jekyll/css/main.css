@@ -63,7 +63,8 @@ html, body {
   margin-left: 1rem; }
 
 .cover {
-  height: 500px; }
+  height: 500px;
+}
 
 .cover > img {
   -o-object-fit: cover;
@@ -105,7 +106,13 @@ footer a:not(.nav-link) {
   .portfolio-reverse {
     flex-direction: column-reverse; }
   .portfolio-reverse .text-end {
-    text-align: start !important; } }
+      text-align: start !important; } }
+
+@media (max-width: 424px) {
+    .cover {
+	height: 600px;
+    }
+}
 
 @media print {
   [data-aos] {

@@ -58,9 +58,9 @@ https://hub.docker.com/r/jekyll/jekyll/
 Jekyll is a fantastic framework for generating static websites while
 separating content from design. I use a docker container with jekyll
 to avoid having to maintain all the Ruby dependencies. The script at
-bin/jekyll.docker contains the invocation to run jekyll commands via
-the container. Simply pass any jekyll command line parameters to
-bin/jekyll.docker.
+[bin/jekyll.docker](bin/jekyll.docker) contains the invocation to run
+jekyll commands via the container. Simply pass any jekyll command line
+parameters to bin/jekyll.docker.
 
 ### Resume JSON
 
@@ -79,7 +79,13 @@ properties.
 
 https://ogp.me/
 
-These HTML meta tags customize the rendering of previews in social media shares.
+These HTML meta tags customize the rendering of previews in social
+media shares. The OG preview image is generated from the
+[preview.html](resume.zach.ember.us.jekyll/preview.html) file which is
+a stripped down and styled version of the header image from the
+resume. The [bin/update_assets](bin/update_assets) script uses Google
+Chrome headless to generate a PDF from this HTML and then converts it
+to a PNG using ImageMagick.
 
 ### vCard (.vcf)
 
@@ -92,10 +98,9 @@ generates it via Jekyll from the JSON file.
 
 ### PDF
 
-The PDF version of the resume is currently generated simply with the
-"Save as PDF" browser function. Per issue [#3](/../../issues/3) I would like to add a
-process that generates this automatically upon changes to the jekyll
-tree.
+Generated via [bin/update_assets](bin/update_assets) using Google
+Chrome's `--headless --print-to-pdf` flags. This script currently only
+runs on MacOS.
 
 ### QR Code
 

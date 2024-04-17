@@ -66,7 +66,7 @@ parameters to bin/jekyll.docker.
 
 https://jsonresume.org/
 https://github.com/jsonresume
-https://resume.zach.ember.us/zach-ember-resume.json
+[resume.json](resume.zach.ember.us.jekyll/resume.json)
 
 I've had to extend this standard by adding some additional
 properties. I'd like to find ways to bring the JSON this page serves
@@ -92,17 +92,17 @@ to a PNG using ImageMagick.
 https://en.wikipedia.org/wiki/VCard
 https://www.rfc-editor.org/rfc/rfc6350.html
 
-The vCard is currently simply exported from the MacOS
+The [vCard](resume.zach.ember.us.jekyll/contact.vcf) is currently simply exported from the MacOS
 Contacts.app. Per issue [#5](/../../issues/5) I would like to add a process that
 generates it via Jekyll from the JSON file.
 
 ### PDF
 
-Generated via [bin/update_assets](bin/update_assets) using Google
+The [PDF Resume](resume.zach.ember.us.jekyll/resume.pdf) is Generated via [bin/update_assets](bin/update_assets) using Google
 Chrome's `--headless --print-to-pdf` flags. This script currently only
 runs on MacOS.
 
 ### QR Code
 
-The print version of the resume has a QR code on it that links back to
+The print version of the resume has a [QR Code](resume.zach.ember.us.jekyll/images/qr.png) on it that links back to
 the website. That was made using https://www.qrcode-monkey.com/

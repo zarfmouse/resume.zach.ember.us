@@ -36,7 +36,7 @@
          {
             "fontawesome" : "fa fa-address-card",
             "network" : "vCard",
-            "url" : "https://resume.zach.ember.us/zach-ember-contact.vcf",
+            "url" : "contact.vcf",
             "username" : "zach-ember"
          },
          {

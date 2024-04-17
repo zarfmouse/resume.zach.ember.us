@@ -3,7 +3,7 @@
    "awards" : [],
    "basics" : {
       "email" : "zach@ember.us",
-      "image" : "https://gravatar.com/userimage/28071505/30b7f5acce18be394a0c2e0223017935.jpeg?size=400",
+      "image" : "https://gravatar.com/avatar/54e5a9bdd54da9f791347fa00b917559970155af28e1677ab9d14684a0e87a6a.jpg?s=400",
       "label" : "Business Process and Software Development Consultant",
       "location" : {
          "address" : "2045 W Grand Ave Ste B\nPMB 61941\nChicago, IL 60612-1577",
@@ -92,8 +92,8 @@
       }
    ],
    "meta" : {
-      "canonical" : "https://resume.zach.ember.us/zach-ember-resume.json",
-      "pdf" : "https://resume.zach.ember.us/zach-ember-resume.pdf",
+      "canonical" : "https://resume.zach.ember.us/resume.json",
+      "pdf" : "https://resume.zach.ember.us/resume.pdf",
       "preview" : "https://resume.zach.ember.us/images/preview.png",
       "qr" : "https://resume.zach.ember.us/images/qr.png",
       "sourcecode": "https://github.com/zarfmouse/resume.zach.ember.us",

@@ -1,0 +1,71 @@
+---
+width: 1600px
+height: 838px
+---
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Preview Image {{ site.data.resume.basics.name }}</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="crossorigin"/>
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap" media="print" onload="this.media='all'"/>
+    <link href="css/font-awesome/css/all.min.css?ver=1.2.2" rel="stylesheet">
+    <link href="css/mdb.min.css?ver=1.2.2" rel="stylesheet">
+    <link href="css/main.css?ver=1.2.2" rel="stylesheet">
+
+    <style>
+      html, body {
+        width:  {{ page.width }};
+        height: {{ page.height }};
+        margin:  0px;
+        padding: 0px;
+      }
+      @page { size: {{ page.width }} {{ page.height }} ; margin : 0px }
+
+      body.preview,
+      body.preview .cover,
+      body.preview .cover > img {
+	  width: {{ page.width }};
+	  height: {{ page.height }};
+	  overflow: hidden;
+      }
+      body.preview .cover > img {
+	  display: block;
+      }
+      
+      body.preview .preview-text,
+      body.preview .preview-text .h1
+      {
+	  font-size: 250%;
+      }
+      
+      body.preview .text-center {
+	  padding-top: 125px !important;
+      }
+     </style>
+  </head>
+  <body class="bg-light preview" id="top">
+<div class="resume-container">
+    <div class="bg-info text-white">
+      <div class="cover bg-image"><img src="images/header-background.png"  width="1600" height="685" />
+        <div class="mask" style="background-color: rgba(0, 0, 0, 0.5);backdrop-filter: blur(2px);">
+          <div class="text-center p-5">
+            <div class="avatar p-1"><img class="img-thumbnail shadow-2-strong" src="{{ site.data.resume.basics.image }}" width="320" height="320"/></div>
+            <div class="header-bio mt-3">
+              <div class="preview-text">
+                <h2 class="h1">{{ site.data.resume.basics.name }}</h2>
+                <p>{{ site.data.resume.basics.label }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+    <script src="scripts/mdb.min.js?ver=1.2.2"></script>
+    <script src="scripts/main.js?ver=1.2.2"></script>
+  </body>
+</html>

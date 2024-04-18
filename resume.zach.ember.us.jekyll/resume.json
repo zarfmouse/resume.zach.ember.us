@@ -47,7 +47,7 @@
          }
       ],
       "pronouns" : "they/he",
-      "summary" : "I am an expert in the agile business processes that empower elite software engineering teams to create transformative web applications.\n\nI have been writing data-driven web applications since 1993, when both I and the web were young. I am a jack-of-all-trades, with extensive experience with software engineering, system administration, requirements analysis, agile project management, hiring processes, human resource allocation, revenue operations, customer relationship management, sales and marketing process, customer service, and business intelligence. I love solving hard problems, and my passion is figuring out the best approaches to adapting Agile/Scrum methodologies to a completely distributed workforce. \n\nIn my spare time I play with power tools, board games, bicycles, harmonicas, and audio gear.",
+       "summary" : "<p>I am an expert in <strong>web application development</strong>, the <strong>management</strong> of software engineering teams, and the <strong>agile business processes</strong> that empower those teams.</p>I have been writing data-driven web applications since 1993, when both I and the web were young. I am a <strong>technical jack-of-all-trades</strong>, with extensive experience with software engineering, full stack web development, database administration, data analytics, system administration, requirements analysis, agile project management, hiring processes, human resource allocation, revenue operations, customer relationship management, sales and marketing process, customer service process, and business intelligence. I love <strong>solving hard problems</strong> and my passion is <strong>maximizing efficiency and quality in completely distributed workforces</strong>.</p>In my spare time I play with power tools, board games, bicycles, harmonicas, and audio gear.</p>",
       "url" : "https://resume.zach.ember.us/"
    },
    "certificates" : [],
@@ -406,16 +406,16 @@
          "organization" : "Urbana Champaign Independent Media Center",
          "position" : "Co-Founder, Spokesperson",
          "startDate" : "2001-09-30",
-         "summary" : "I was a co-founder of this non-profit organization and volunteered with all aspects of the organizations operation. I was the primary web application maintainer, systems administrator, and on-site network administrator. I helped manage our Radio coordinator position. I was the spokesperson for the live performance booking working group and I booked a series of folk music concerts. I was the note taker, and oversaw the consensus process for membership meetings. Through this organization I ran a volunteer community web hosting service.",
+         "summary" : "I was a <strong>co-founder</strong> of this non-profit organization and volunteered with all aspects of the organizations operation. I was the primary <strong>web application maintainer</strong>, <strong>systems administrator</strong>, and on-site <strong>network administrator</strong>. I helped <strong>manage</strong> our Radio coordinator position. I was the <strong>spokesperson</strong> for the live performance booking working group and I booked a series of folk music concerts. I was the note taker, and <strong>oversaw the consensus process</strong> for large membership meetings. Through this organization I ran a volunteer <strong>community web hosting</strong> service.",
          "url" : "https://www.linkedin.com/company/1084328"
       },
       {
          "endDate" : "2002-12-31",
          "highlights" : [],
-         "organization" : "PRAIRIE AIR INCORPORATED",
+         "organization" : "Prairie Air, Incorporated",
          "position" : "Associates Committee Chair",
          "startDate" : "1996-12-31",
-         "summary" : "I volunteered to run the Associates Committee and Associates Executive Committee at this community radio station. My primary responsibilities were to develop and maintain volunteer committee standard operating procedures, bylaws, and policies; and chair the all-volunteer meetings of the organization. I was also the host of several different weekly music and public affairs radio programs during this time.I volunteered to run the Associates Committee and Associates Executive Committee at this community radio station. My primary responsibilities were to develop and maintain volunteer committee standard operating procedures, bylaws, and policies; and chair the all-volunteer meetings of the organization. I was also the host of several different weekly music and public affairs radio programs during this time.",
+         "summary" : "I was the <strong>chair-person</strong> of the largest committee of volunteer radio hosts at this community radio station. My primary responsibilities were to develop and maintain volunteer committee <strong>standard operating procedures</strong>, <strong>bylaws</strong>, and <strong>policies</strong>; and chair the meetings of the organization. I was also the host of several different weekly music and public affairs radio programs during this time.",
          "url" : "https://www.linkedin.com/company/55305083"
       }
    ],
@@ -427,7 +427,7 @@
          "name" : "Technetium Star",
          "position" : "Owner",
          "startDate" : "2023-02-01",
-         "summary" : "I have begun building a software development consulting business. I offer my clients analysis, solution, implementation, and maintenance in the areas of website development, software development, software integration, devops consulting, SOHO network configuration, CRM/RevOps consulting.",
+         "summary" : "I have begun building a software development consulting business. I offer my clients analysis, solution, implementation, and maintenance in the areas of <strong>website development, <strong>software development</strong>, software integration, devops consulting, network configuration, CRM/RevOps consulting</strong>.",
          "url" : "https://technetiumstar.com"
       },      
       {
@@ -437,7 +437,7 @@
          "name" : "42 Lines Inc",
          "position" : "Director of Business Operations",
          "startDate" : "2020-08-31",
-         "summary" : "As our company moved from bespoke contract software engineering to a SaaS product sales strategy with its Harmonize product for Learning Management Systems, I took on Revenue Operations (RevOps) duties along with assisting in the hiring process for Sales and Marketing roles. My existing business process duties expanded to include the administration and integration of Salesforce, HubSpot, ZoomInfo, and FreshDesk. I designed sales and marketing automations reports, workflows, and reports in consultation with the Directors of Sales and Marketing and the CEO. I reported sales and marketing metrics to the CEO.",
+          "summary" : "As our company moved from bespoke contract software engineering to a <strong>SaaS</strong> product sales strategy with its Harmonize product for Learning Management Systems, I took on <strong>Revenue Operations</strong> (RevOps) duties along with running the <strong>hiring process</strong> for Sales and Marketing leadership roles. My existing business process duties expanded to include the design and implementation of:<ul><li>integration and syncing between <strong>Salesforce</strong>, <strong>HubSpot</strong>, <strong>DocuSign</strong>, <strong>ZoomInfo</strong>, and <strong>FreshDesk</strong></li><li><strong>sales and marketing automation</strong>, reports, and workflows</li><li>report <strong>sales and marketing metrics</strong> to the CEO to inform strategic decisions</li><li>Data cleanup, normalization, merging, and import (<strong>ETL</strong>) from disparate sources for Salesforce and HubSpot.</li></ul>",
          "url" : "https://www.linkedin.com/company/42lines/"
       },
       {
@@ -447,7 +447,7 @@
          "name" : "42 Lines Inc",
          "position" : "Director of Project Management",
          "startDate" : "2018-05-31",
-         "summary" : "As our bespoke contract software engineering company grew to support multiple clients I was tasked with expanding the Project Management Department, adapting our processes to allow for simultaneous sprints, human resource management across sprints, hiring processes for new roles, expansion of the company to 50 employees. Massively increased custom reporting in Google Sheets and Tableau using data extracted from various business process APIs.\n\nI also served as backup Business Intelligence Analyst, Sales Department Manager, and QA Department Manager during times when these roles were empty.",
+          "summary" : "As our bespoke contract software engineering company grew to <strong>support multiple clients</strong>. I was tasked with expanding the Project Management Department, adapting our processes to allow for <strong>simultaneous sprints</strong>, <strong>resource allocation</strong>, <strong>hiring processes for new roles</strong>, expansion of the company to 50 employees.<ul><li>Analysis of both individual performance metrics and project status metrics in <strong>Google Sheets</strong> and <strong>Tableau</strong> using data I extracted through APIs from <strong>JIRA</strong>, <strong>Git</strong>, <strong>Google Sheets</strong>, <strong>Confluence</strong>, <strong>Tom's Planner</strong>, <strong>Google Calendar</strong>, <strong>Tempo Timesheets</strong>, <strong>Smart Sheets</strong>, and other systems.</li><li>acted as <strong>Business Intelligence Analyst</strong>, <strong>Sales Department Manager</strong>, and <strong>QA Department Manager</strong> during times when these roles were empty</li><li><strong>Supervised</strong> a Project Manager and a Project Management Assistant.</li><li><strong>Facilitated senior management meetings</strong> and <strong>strategic retreats</strong>.</li><li>Facilitated a shift from <strong>Scrum</strong> to <strong>Kanban</strong> for mature projects.</li></ul>",
          "url" : "https://www.linkedin.com/company/42lines/"
       },
       {
@@ -457,7 +457,7 @@
          "name" : "42 Lines Inc",
          "position" : "Project Manager",
          "startDate" : "2010-05-31",
-         "summary" : "I managed a team of 20 fully remote software engineers, QA testers, designers, and devops engineers to formulate iteration plans and deliver on time. I designed custom workflows in JIRA to support Scrum processes for a fully remote team. I led the transformation of the company from ad hoc workflows to well managed Scrum. I was the administrator for entire self-hosted Atlassian Suite (JIRA, Confluence, Crowd, Bamboo, Fisheye/Crucible). I designed and maintained company policies relating to Hiring, Onboarding, Offboarding, and HR. I ran retrospectives, oversaw sprint metrics, reported directly to the CEO. I developed billing software to generate invoices from JIRA data. I developed many API integrations between project management tools. I did event management for semi-annual company retreat events that brought our fully remote employees together for team building. \n\nThanks to my unique Digital Video experience I also designed and implemented a custom streaming video infrastructure as well as an HTML5 client side video recording interface. I was called upon to analyze and modify PHP code for our clients since our teams' expertise was Java.",
+         "summary" : "I managed a team of 20 fully remote software engineers, QA testers, designers, and devops engineers to formulate <strong>iteration plans</strong> and deliver on time.<ul><li>designed custom workflows in JIRA to support <strong>Scrum processes</strong> for a <strong>fully remote</strong> team.</li><li>led the transformation of the company from ad hoc workflows to well managed Scrum.</li><li>administrator for entire self-hosted <strong>Atlassian Suite</strong> (JIRA, Confluence, Crowd, Bamboo, Fisheye/Crucible).</li><li>designed and maintained <strong>company policies</strong> relating to Hiring, Onboarding, Offboarding, and HR.</li><li>ran <strong>retrospectives</strong>.</li><li>oversaw sprint metrics</li><li>reported directly to the CEO.</li></li><li>developed billing software to generate invoices from JIRA data</li><li>developed many API integrations between project management tools</li><li>event management for semi-annual company retreat events that brought our fully remote employees together for team building.</li><li>thanks to my unique Digital Video experience I also designed and implemented a custom streaming video infrastructure as well as an HTML5 client side video recording interface</li><li>acted as in-house PHP expert as needed by our clients</li><li>assisted engineering team with <strong>data modeling</strong></li></ul>.",
          "url" : "https://www.linkedin.com/company/42lines/"
       },
       {
@@ -467,7 +467,7 @@
          "name" : "CAM Systems",
          "position" : "Software Development Consultant",
          "startDate" : "2017-11-30",
-         "summary" : "Developed a Perl daemon in OpenShift/Kubernetes/Docker infrastructure to run periodic MySQL queries to detect certain data events and log them as JIRA tickets. Provided general assistance with application migration and deployment in OpenShift/Kubernetes/Docker.",
+          "summary" : "Part-time consulting project.<ul><li>Developed a <strong>Perl</strong> daemon in <strong>OpenShift</strong>/<strong>Kubernetes</strong>/<strong>Docker</strong> infrastructure to run periodic <strong>MySQL</strong> queries to detect certain data events and log them as <strong>JIRA</strong> tickets via <strong>REST API</strong>.</li><li>Provided general assistance with application migration and deployment (<strong>DevOps</strong>) of the company's Java web application.</li></ul>",
          "url" : ""
       },
       {
@@ -477,7 +477,7 @@
          "name" : "G Media Pty Ltd",
          "position" : "Web Development Manager",
          "startDate" : "2009-01-31",
-         "summary" : "Managed all aspected of software development for a multimedia publishing company. \n\nHired and managed a team of 5 direct reports (2 full stack programmers, 1 front-end engineer, 1 designer) while acting as lead programmer. Agile+XP methodology. Reported directly to the CEO. Produced revenue and site usage reports to inform, implement, and measure marketing initiatives.",
+          "summary" : "Managed all aspected of software development for a multimedia publishing company.<ul><li>Hired and managed a team of 5 direct reports (2 full stack programmers, 1 front-end engineer, 1 designer) while acting as lead programmer.</li><li>Implemented <strong>Agile+XP</strong> methodology with <strong>Continuous Integration and Delivery</strong> (CI/CD) and <strong>Test Driven Development</strong> (TDD).</li><li>Reported directly to the CEO.</li><li>Produced revenue and site usage reports to inform, implement, and measure marketing initiatives.</li></ul>",
          "url" : "https://www.linkedin.com/company/g-media-pty-ltd/"
       },
       {
@@ -487,7 +487,7 @@
          "name" : "G Media Pty Ltd",
          "position" : "Lead Programmer",
          "startDate" : "2007-11-30",
-         "summary" : "Develop frameworks and standards for next generation content management. Develop and maintain internal software systems for asset management, customer support, marketing, project management, customer support, payments processing, and continuous integration use. Architect for XML/XLST based content management system with an emphasis on multi-lingual content delivery (internationalization/localization - i18n/l10n) and efficient separation of front-end and back-end concerns. Extensive MySQL optimization.",
+         "summary" : "Architect and implementation lead for a custom in-house subscription-based multimedia <strong>content management system</strong>.<ul><li>Develop frameworks and standards for next generation content management.</li><li>Develop and maintain internal software systems for <strong>asset management</strong>, <strong>customer support</strong>, <strong>marketing</strong>, <strong>project management</strong>, <strong>customer support</strong>, <strong>payments processing</strong>, and <strong>continuous integration</strong> use.</li><li>Architect for <strong>XML/XLST</strong> based content management system with an emphasis on <strong>multi-lingual content delivery</strong> (<strong>i18n</strong>/<strong>l10n</strong>) and efficient separation of front-end and back-end concerns.</li></ul>",
          "url" : "https://www.linkedin.com/company/g-media-pty-ltd/"
       },
       {
@@ -497,7 +497,7 @@
          "name" : "G Media Pty Ltd",
          "position" : "Features Programmer",
          "startDate" : "2005-02-28",
-         "summary" : "Added new features to existing in-house software as needed. Created Web 2.0 lists for customers, video thumbnail extraction with mplayer, streaming video infrastructure with ffmpeg and jwplayer, custom PHP content delivery network with distributed zip file creation and on-demand watermarking, maintenance of pre-production and post-production database systems, MySQL optimization.",
+          "summary" : "Added new features to existing in-house software as needed.<ul><li>Created Web 2.0 list/tag system</li><li>video thumbnail extraction with <strong>mplayer</strong></li><li>streaming <strong>video transcoding</strong> infrastructure with <strong>ffmpeg</strong> and <strong>jwplayer</strong>, custom <strong>PHP</strong> <strong>content delivery network</strong> with <strong>distributed zip file creation</strong> and <strong>on-demand image watermarking</strong></li><li>maintenance of pre-production and post-production database systems</li><li><strong>MySQL optimization</strong> including query, schema, and server optimization</li>",
          "url" : "https://www.linkedin.com/company/g-media-pty-ltd/"
       },
       {
@@ -507,7 +507,7 @@
          "name" : "G Media Pty Ltd",
          "position" : "Consultant",
          "startDate" : "2004-01-31",
-         "summary" : "Created customizable HR/pre-production database with MySQL and Perl.",
+         "summary" : "Created customizable HR/pre-production database with <strong>MySQL</strong> and <strong>Perl</strong>. This was a bespoke highly customizable web application for tracking pre-production planning.",
          "url" : "https://www.linkedin.com/company/g-media-pty-ltd/"
       },
       {
@@ -517,7 +517,7 @@
          "name" : "Porcupine Mountains Music Festival",
          "position" : "Festival Director",
          "startDate" : "2005-01-31",
-         "summary" : "Created a 3 day folk music festival in a state park in rural Upper Peninsula of Michigan. Along with 1 other volunteer festival directory I was the sole paid employee responsible for creation, talent booking, site logistics, web site design, budgeting, marketing, and coordination of over 100 volunteers.\n\nThis was a 25% time job. The festival continues to operate annually after over 15 years.",
+         "summary" : "Created a 3 day folk music festival in a state park in rural Upper Peninsula of Michigan. Along with 1 other volunteer festival directory I was the sole paid employee responsible for creation, <strong>talent booking</strong>, <strong>site logistics</strong>, <strong>web site design</strong>, <strong>budgeting</strong>, <strong>marketing</strong>, and <strong>coordination of over 100 volunteers</strong>.\n\nThis was a 25% time job. The festival continues to operate annually after over 15 years.",
          "url" : ""
       },
       {
@@ -527,7 +527,7 @@
          "name" : "Champaign-Urbana Community Wireless Network",
          "position" : "Co-Founder",
          "startDate" : "2004-01-31",
-         "summary" : "Non-profit, grant-funded, initiative to implement a mesh wireless routing protocol called Hazy-Sighted Link State (HSLS). I helped specify the overall architecture, administered the testing platform, performed field installations, and developed network visualization and configuration software in C. I was a technical representative for the project at conferences in Seattle, Washington DC, and Denmark and in meetings at the Federal Communication Commission and with several US Congresspeople.",
+         "summary" : "Non-profit, grant-funded, initiative to implement a mesh wireless routing protocol called <strong>Hazy-Sighted Link State (HSLS)</strong>. I helped specify the overall <strong>architecture</strong>, administered the <strong>testing platform</strong>, performed <strong>field installations</strong>, and developed <strong>network visualization</strong> and configuration software in <strong>C</strong>. I was a <strong>technical representative</strong> for the project at <strong>conferences</strong> in Seattle, Washington DC, and Denmark and in meetings at the Federal Communication Commission and with several US Congresspeople.",
          "url" : ""
       },
       {
@@ -537,7 +537,7 @@
          "name" : "National Center for Supercomputing Applications",
          "position" : "Systems Engineer",
          "startDate" : "2001-11-30",
-         "summary" : "Manage heterogeneous collection of machines for Hierarchical Data Format group and Caterpillar research group including HPUX, Solaris, Linux, IRIX, and Windows machines. Problem solver for research groups with special computing needs not otherwise met by the normal support structure.",
+         "summary" : "<strong>Manage servers</strong> for Hierarchical Data Format group and Caterpillar research group including HPUX, Solaris, Linux, IRIX, and Windows machines. <strong>Problem solver</strong> for research groups with special computing needs not otherwise met by the normal support structure.",
          "url" : "https://www.linkedin.com/company/ncsaatillinois/"
       },
       {
@@ -547,7 +547,7 @@
          "name" : "Slots.com",
          "position" : "Chief Technology Officer",
          "startDate" : "2000-01-31",
-         "summary" : "Dotcom startup with an early vision of \"interactive advertising\". In the days of banner ads this company sought to replace banner ads with interactive slot machine games that would reward engaged prospective customers with coupons to drive impressions to conversions more efficiently. \n\nI created the Java applet based web front end as well as the Apache/Perl based server backend. I also specified, acquired, and maintained the server infrastructure.",
+         "summary" : "Dotcom startup with an early vision of <strong>\"interactive advertising\"</strong>. In the days of banner ads this company sought to replace banner ads with interactive slot machine games that would reward engaged prospective customers with coupons to drive impressions to conversions more efficiently. I created the <strong>Java applet</strong> based web front end as well as the <strong>Apache/Perl</strong> based server backend. I also specified, acquired, and maintained the <strong>server infrastructure</strong>.",
          "url" : ""
       },
       {
@@ -557,7 +557,7 @@
          "name" : "Zach Miller Consulting",
          "position" : "Software Developer",
          "startDate" : "1999-05-31",
-         "summary" : "Various clients. Developed C++/Apache integration for a C++ web application framework. Developed modular Perl-based \"meta-search\" engine for educational purposes - parsing and comparing search results from multiple search engines.",
+         "summary" : "Various clients. Developed <strong>C++/Apache</strong> integration for a C++ web application framework. Developed modular <strong>Perl</strong>-based \"meta-search\" engine for educational purposes - parsing and comparing search results from multiple search engines.",
          "url" : ""
       },
       {
@@ -567,7 +567,7 @@
          "name" : "US Geological Survey",
          "position" : "Lead Programmer",
          "startDate" : "1995-09-30",
-         "summary" : "Web programmer and software engineer for the Illinois District of the Water Resources Division. Designed and built a modular system for distributing real-time stream gauge data to the public including both CSV/TSV files and graphs. Our team was one of the first government agencies to put real time data on the Web. I was lead programmer on a team of seven. I was also involved in system administration and LAN design within the Illinois district and at the national headquarters.",
+         "summary" : "Web programmer and software engineer for the Illinois District of the Water Resources Division. Designed and built a modular system for distributing <strong>real-time stream gauge data</strong> to the public including both <strong>CSV/TSV</strong> files and <strong>graphs</strong>. Our team was one of the first government agencies to put real time data on the Web. I was <strong>lead programmer</strong> on a team of seven. I was also involved in <strong>system administration</strong> within the Illinois district and at the national headquarters.",
          "url" : "https://www.linkedin.com/company/us-generating/"
       },
       {
@@ -577,7 +577,7 @@
          "name" : "Illinois Mathematics and Science Academy",
          "position" : "Network Systems Administrator",
          "startDate" : "1993-04-30",
-         "summary" : "Lead Solaris and Netware systems administrator. My duties included maintenance, upgrade, and development of several networked machines with a user base of over 1000 users. Implementation of one of the earliest school websites. Member of a 3 person team which designed and installed a Solaris and Netware server cluster for the students and faculty of IMSA. Played a leading role in designing a campus wide ethernet LAN with several hundred drops, several subnets, multiple protocol support, and a high speed server backbone. Assisted in hiring process for full time system administrators. Coordinated student network system administrator program. Maintained a collection of open source tools.",
+         "summary" : "Lead <strong>Solaris</strong> and <strong>Netware</strong> systems administrator. My duties included maintenance, upgrade, and development of several networked machines with a user base of over <strong>1000 users</strong>. Implementation of one of the <strong>earliest school websites</strong>. Member of a 3 person team which designed and installed a Solaris and Netware server cluster for the students and faculty of IMSA. Played a leading role in designing a <strong>campus wide ethernet LAN</strong> with several hundred drops, several subnets, multiple protocol support, and a high speed server backbone. Assisted in <strong>hiring process</strong> for full time system administrators. <strong>Coordinated</strong> student network system administrator program. Maintained a collection of <strong>open source tools</strong>.",
          "url" : "https://www.linkedin.com/school/illinois-mathamatics-&-science-academy/"
       }
    ]

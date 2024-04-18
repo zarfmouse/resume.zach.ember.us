@@ -47,7 +47,7 @@
          }
       ],
       "pronouns" : "they/he",
-       "summary" : "<p>I am an expert in <strong>web application development</strong>, the <strong>management</strong> of software engineering teams, and the <strong>agile business processes</strong> that empower those teams.</p>I have been writing data-driven web applications since 1993, when both I and the web were young. I am a <strong>technical jack-of-all-trades</strong>, with extensive experience with software engineering, full stack web development, database administration, data analytics, system administration, requirements analysis, agile project management, hiring processes, human resource allocation, revenue operations, customer relationship management, sales and marketing process, customer service process, and business intelligence. I love <strong>solving hard problems</strong> and my passion is <strong>maximizing efficiency and quality in completely distributed workforces</strong>.</p>In my spare time I play with power tools, board games, bicycles, harmonicas, and audio gear.</p>",
+       "summary" : "<p>I am an expert in <strong>web application development</strong>, the <strong>management</strong> of software engineering teams, and the <strong>agile business processes</strong> that empower those teams.</p>I have been writing data-driven web applications since 1993, when both I and the web were young. I am a <strong>technical jack-of-all-trades</strong>, with extensive experience with software engineering, full stack web development, database administration, data analytics, system administration, requirements analysis, agile project management, hiring processes, human resource allocation, revenue operations, customer relationship management, sales and marketing process, customer service process, and business intelligence. I love <strong>solving hard problems</strong> and my passion is <strong>maximizing efficiency and quality in completely distributed workforces</strong>.</p><p>In my spare time I play with power tools, board games, bicycles, harmonicas, and audio gear.</p>",
       "url" : "https://resume.zach.ember.us/"
    },
    "certificates" : [],
@@ -421,16 +421,6 @@
    ],
    "work" : [
       {
-         "endDate" : "present",
-         "highlights" : [],
-         "location" : "Oak Park, Illinois, United States",
-         "name" : "Technetium Star",
-         "position" : "Owner",
-         "startDate" : "2023-02-01",
-         "summary" : "I have begun building a software development consulting business. I offer my clients analysis, solution, implementation, and maintenance in the areas of <strong>website development, <strong>software development</strong>, software integration, devops consulting, network configuration, CRM/RevOps consulting</strong>.",
-         "url" : "https://technetiumstar.com"
-      },      
-      {
          "endDate" : "2022-08-31",
          "highlights" : [],
          "location" : "Chicago, Illinois, United States",
@@ -457,7 +447,7 @@
          "name" : "42 Lines Inc",
          "position" : "Project Manager",
          "startDate" : "2010-05-31",
-         "summary" : "I managed a team of 20 fully remote software engineers, QA testers, designers, and devops engineers to formulate <strong>iteration plans</strong> and deliver on time.<ul><li>designed custom workflows in JIRA to support <strong>Scrum processes</strong> for a <strong>fully remote</strong> team.</li><li>led the transformation of the company from ad hoc workflows to well managed Scrum.</li><li>administrator for entire self-hosted <strong>Atlassian Suite</strong> (JIRA, Confluence, Crowd, Bamboo, Fisheye/Crucible).</li><li>designed and maintained <strong>company policies</strong> relating to Hiring, Onboarding, Offboarding, and HR.</li><li>ran <strong>retrospectives</strong>.</li><li>oversaw sprint metrics</li><li>reported directly to the CEO.</li></li><li>developed billing software to generate invoices from JIRA data</li><li>developed many API integrations between project management tools</li><li>event management for semi-annual company retreat events that brought our fully remote employees together for team building.</li><li>thanks to my unique Digital Video experience I also designed and implemented a custom streaming video infrastructure as well as an HTML5 client side video recording interface</li><li>acted as in-house PHP expert as needed by our clients</li><li>assisted engineering team with <strong>data modeling</strong></li></ul>.",
+         "summary" : "I managed a team of 20 fully remote software engineers, QA testers, designers, and devops engineers to formulate <strong>iteration plans</strong> and deliver on time.<ul><li>designed custom workflows in JIRA to support <strong>Scrum processes</strong> for a <strong>fully remote</strong> team.</li><li>led the transformation of the company from ad hoc workflows to well managed Scrum.</li><li>administrator for entire self-hosted <strong>Atlassian Suite</strong> (JIRA, Confluence, Crowd, Bamboo, Fisheye/Crucible).</li><li>designed and maintained <strong>company policies</strong> relating to Hiring, Onboarding, Offboarding, and HR.</li><li>ran <strong>retrospectives</strong>.</li><li>oversaw sprint metrics</li><li>reported directly to the CEO.</li></li><li>developed billing software to generate invoices from JIRA data</li><li>developed many API integrations between project management tools</li><li>event management for semi-annual company retreat events that brought our fully remote employees together for team building.</li><li>thanks to my unique Digital Video experience I also designed and implemented a custom streaming video infrastructure as well as an HTML5 client side video recording interface</li><li>acted as in-house PHP expert as needed by our clients</li><li>assisted engineering team with <strong>data modeling</strong></li></ul>",
          "url" : "https://www.linkedin.com/company/42lines/"
       },
       {
@@ -547,7 +537,7 @@
          "name" : "Slots.com",
          "position" : "Chief Technology Officer",
          "startDate" : "2000-01-31",
-         "summary" : "Dotcom startup with an early vision of <strong>\"interactive advertising\"</strong>. In the days of banner ads this company sought to replace banner ads with interactive slot machine games that would reward engaged prospective customers with coupons to drive impressions to conversions more efficiently. I created the <strong>Java applet</strong> based web front end as well as the <strong>Apache/Perl</strong> based server backend. I also specified, acquired, and maintained the <strong>server infrastructure</strong>.",
+         "summary" : "Dotcom startup with an early vision of <strong>interactive advertising</strong>. In the days of banner ads this company sought to replace banner ads with interactive slot machine games that would reward engaged prospective customers with coupons to drive impressions to conversions more efficiently. I created the <strong>Java applet</strong> based web front end as well as the <strong>Apache/Perl</strong> based server backend. I also specified, acquired, and maintained the <strong>server infrastructure</strong>.",
          "url" : ""
       },
       {

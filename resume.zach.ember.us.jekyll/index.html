@@ -63,7 +63,7 @@
       <div class="cover bg-image"><img src="images/header-background.png"  width="1600" height="685" />
         <div class="mask" style="background-color: rgba(0, 0, 0, 0.5);backdrop-filter: blur(2px);">
           <div class="text-center p-5">
-            <div class="avatar p-1"><img class="img-thumbnail shadow-2-strong" src="{{ site.data.resume.basics.image }}" width="160" height="160"/><img class="img-thumbnail shadow-2-strong d-none d-print-inline" src="{{ site.data.resume.meta.qr }}" width="160" height="160"/></div>
+            <div class="avatar p-1"><img class="img-thumbnail shadow-2-strong" src="{{ site.data.resume.basics.image }}" width="160" height="160"/><img class="img-thumbnail shadow-2-strong d-none d-print-inline mx-2" src="{{ site.data.resume.meta.qr }}" width="160" height="160"/></div>
             <div class="header-bio mt-3">
               <div data-aos="zoom-in" data-aos-delay="0">
                 <h2 class="h1">{{ site.data.resume.basics.name }}</h2>
@@ -96,12 +96,6 @@
         <div class="col-md-5 offset-lg-1">
           <div class="row mt-2">
             <h2 class="h2 fw-light mb-4">Bio</h2>
-	    <div class="col-sm-5">
-              <div class="pb-2 fw-bolder"><i class="fas fa-genderless pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Pronouns</div>
-            </div>
-            <div class="col-sm-7">
-              <div class="pb-2">{{ site.data.resume.basics.pronouns }}</div>
-            </div>	    
             <div class="col-sm-5">
               <div class="pb-2 fw-bolder"><i class="fas fa-envelope pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Email</div>
             </div>
@@ -113,12 +107,6 @@
             </div>
             <div class="col-sm-7">
               <div class="pb-2"><a href="tel:{{ site.data.resume.basics.phone }}">{{ site.data.resume.basics.phone }}</a></div>
-            </div>
-            <div class="col-sm-5">
-              <div class="pb-2 fw-bolder"><i class="fas fa-mail-bulk pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Mailing Address</div>
-            </div>
-            <div class="col-sm-7">
-              <div class="pb-2">{{ site.data.resume.basics.location.address }}</div>
             </div>
             <div class="col-sm-5">
               <div class="pb-2 fw-bolder"><i class="fas fa-laptop-house pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Home/Office</div>
@@ -138,10 +126,10 @@
       <div class="timeline">
        {% for job in site.data.resume.work %}
         <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="0">
-          <div class="timeline-head px-4 pt-3">
+          <div class="timeline-head px-4 pt-2">
             <div class="h5">{{ job.position }} <span class="text-muted h6">at {{ job.name }}, {{ job.location }}</span></div>
           </div>
-          <div class="timeline-body px-4 pb-4">
+          <div class="timeline-body px-4 pb-3">
             <div class="text-muted text-small mb-3">{{ job.startDate | date: "%Y" }} - {{ job.endDate | date: "%Y" }}</div>
             <div>{{ job.summary }}</div>
           </div>
@@ -156,11 +144,11 @@
       <div class="timeline">
        {% for school in site.data.resume.education %}
         <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="0">
-          <div class="timeline-head px-4 pt-3">
+          <div class="timeline-head px-4 pt-2">
             <div class="h5">{{ school.studyType }} {{ school.area }} <span class="text-muted h6">from {{ school.institution }}</span>          </div>
           </div>
-          <div class="timeline-body px-4 pb-4">
-            <div class="text-muted text-small mb-3">{{ school.startDate | date: "%Y" }} - {{ school.endDate | date: "%Y" }}</div>
+          <div class="timeline-body px-4 pb-2">
+            <div class="text-muted text-small mb-2">{{ school.startDate | date: "%Y" }} - {{ school.endDate | date: "%Y" }}</div>
           </div>
         </div>
        {% endfor %}       

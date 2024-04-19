@@ -67,10 +67,8 @@ html, body {
 }
 
 .cover > img {
-  -o-object-fit: cover;
-     object-fit: cover;
      width: 100%;
-     height: 500px;
+     min-height: 500px;
 }
 
 .progress-bar {
@@ -128,8 +126,6 @@ p {
   [data-aos] {
     opacity: 1 !important;
     transform: translate(0) scale(1) !important; }
-  body.bg-light {
-    background-color: #fff !important; }
   .container {
     width: auto;
     max-width: 100%;

@@ -464,7 +464,7 @@
          "name" : "CAM Systems",
          "position" : "Software Development Consultant",
          "startDate" : "2017-11-30",
-          "summary" : "Part-time consulting project.<ul><li>Developed a <strong>Perl</strong> daemon in <strong>OpenShift</strong>/<strong>Kubernetes</strong>/<strong>Docker</strong> infrastructure to run periodic <strong>MySQL</strong> queries to detect certain data events and log them as <strong>JIRA</strong> tickets via <strong>REST API</strong>.</li><li>Provided general assistance with application migration and deployment (<strong>DevOps</strong>) of the company's Java web application.</li></ul>",
+          "summary" : "Part-time consulting project.<ul><li>Developed a <strong>Perl</strong> daemon in <strong>OpenShift</strong> / <strong>Kubernetes</strong> / <strong>Docker</strong> infrastructure to run periodic <strong>MySQL</strong> queries to detect certain data events and log them as <strong>JIRA</strong> tickets via <strong>REST API</strong>.</li><li>Provided general assistance with application migration and deployment (<strong>DevOps</strong>) of the company's Java web application.</li></ul>",
          "url" : ""
       },
       {
@@ -484,7 +484,7 @@
          "name" : "G Media Pty Ltd",
          "position" : "Lead Programmer",
          "startDate" : "2007-11-30",
-         "summary" : "Architect and implementation lead for a custom in-house subscription-based multimedia <strong>content management system</strong>.<ul><li>Developed frameworks and standards for next generation content management.</li><li>Developed and maintained internal software systems for <strong>asset management</strong>, <strong>customer support</strong>, <strong>marketing</strong>, <strong>project management</strong>, <strong>customer support</strong>, <strong>payments processing</strong>, and <strong>continuous integration</strong> use.</li><li>Architect for <strong>XML/XLST</strong> based content management system with an emphasis on <strong>multi-lingual content delivery</strong> (<strong>i18n</strong>/<strong>l10n</strong>) and efficient separation of front-end and back-end concerns.</li></ul>",
+         "summary" : "Architect and implementation lead for a custom in-house subscription-based multimedia <strong>content management system</strong>.<ul><li>Developed frameworks and standards for next generation content management.</li><li>Developed and maintained internal software systems for <strong>asset management</strong>, <strong>customer support</strong>, <strong>marketing</strong>, <strong>project management</strong>, <strong>payments processing</strong>, and <strong>continuous integration</strong> use.</li><li>Architect for <strong>XML/XLST</strong> based content management system with an emphasis on <strong>multi-lingual content delivery</strong> (<strong>i18n</strong> / <strong>l10n</strong>) and efficient separation of front-end and back-end concerns.</li></ul>",
          "url" : "https://www.linkedin.com/company/g-media-pty-ltd/"
       },
       {
@@ -514,7 +514,7 @@
          "name" : "Porcupine Mountains Music Festival",
          "position" : "Festival Director",
          "startDate" : "2005-01-31",
-         "summary" : "Created a 3 day folk music festival in a state park in rural Upper Peninsula of Michigan. Along with 1 other volunteer festival directory I was the sole paid employee responsible for creation, <strong>talent booking</strong>, <strong>site logistics</strong>, <strong>web site design</strong>, <strong>budgeting</strong>, <strong>marketing</strong>, and <strong>coordination of over 100 volunteers</strong>.\n\nThis was a 25% time job. The festival continues to operate annually after over 15 years.",
+         "summary" : "Created a 3 day folk music festival in a state park in rural Upper Peninsula of Michigan. I was the sole paid employee responsible for creation, <strong>talent booking</strong>, <strong>site logistics</strong>, <strong>web site design</strong>, <strong>budgeting</strong>, <strong>marketing</strong>, and <strong>coordination of over 100 volunteers</strong>.\n\nThis was a 25% time job. The festival continues to operate annually after over 15 years.",
          "url" : ""
       },
       {

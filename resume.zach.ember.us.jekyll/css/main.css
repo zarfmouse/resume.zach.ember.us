@@ -90,8 +90,8 @@ footer a:not(.nav-link) {
   text-decoration: none;
   cursor: pointer; }
 
-ul {
-    margin-bottom: 0;
+.timeline-body ul {
+    margin-bottom: 0 !important;
 }
 
 p {
@@ -152,7 +152,9 @@ p {
   .portfolio-section,
   .reference-section,
   .contact-section {
-      padding: 0 !important; }
+      padding: 0 !important;
+      padding-bottom: 2rem !important;
+  }
   .my-5 {
       margin-top: 0 !important;
       margin-bottom: 0 !important;

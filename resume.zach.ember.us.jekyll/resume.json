@@ -101,7 +101,14 @@
    },
    "projects" : [],
    "publications" : [],
-   "references" : [],
+   "references" : [
+       {
+	   "name": "Clinton Popetz",
+	   "title": "President/CTO at Harmonize / 42 Lines, Inc",
+	   "reference": "Zach is a very deep thinker, a person who takes the time necessary to consider all aspects of a problem and is able to analyze the costs and benefits of possible solutions. His attention to detail is unmatched. He was a crucial and valuable member of our team for many years in various roles, and his contributions were always welcome. He's also an extremely ethical, thoughtful, and empathetic human, which makes him an excellent addition to any team regardless of his specific role.",
+	   "avatar": "images/clint.jpg"
+       },
+   ],
    "skills" : [
       {
          "keywords" : [
@@ -427,7 +434,7 @@
          "name" : "42 Lines Inc",
          "position" : "Director of Business Operations",
          "startDate" : "2020-08-31",
-          "summary" : "As our company moved from bespoke contract software engineering to a <strong>SaaS</strong> product sales strategy with its Harmonize product for Learning Management Systems, I took on <strong>Revenue Operations</strong> (RevOps) duties along with running the <strong>hiring process</strong> for Sales and Marketing leadership roles. My existing business process duties expanded to include the design and implementation of:<ul><li>integration and syncing between <strong>Salesforce</strong>, <strong>HubSpot</strong>, <strong>DocuSign</strong>, <strong>ZoomInfo</strong>, and <strong>FreshDesk</strong></li><li><strong>sales and marketing automation</strong>, reports, and workflows</li><li>report <strong>sales and marketing metrics</strong> to the CEO to inform strategic decisions</li><li>Data cleanup, normalization, merging, and import (<strong>ETL</strong>) from disparate sources for Salesforce and HubSpot.</li></ul>",
+          "summary" : "As our company moved from bespoke contract software engineering to a <strong>SaaS</strong> product sales strategy with its Harmonize product for Learning Management Systems, I took on <strong>Revenue Operations</strong> (RevOps) duties along with running the <strong>hiring process</strong> for Sales and Marketing leadership roles. My existing business process duties expanded to include the design and implementation of:<ul><li>integration and syncing between <strong>Salesforce</strong>, <strong>HubSpot</strong>, <strong>DocuSign</strong>, <strong>ZoomInfo</strong>, and <strong>FreshDesk</strong></li><li><strong>sales and marketing automation</strong>, reports, and workflows</li><li>report <strong>sales and marketing metrics</strong> to the CEO to inform strategic decisions</li><li>data cleanup, normalization, merging, and import (<strong>ETL</strong>) from disparate sources for Salesforce and HubSpot.</li></ul>",
          "url" : "https://www.linkedin.com/company/42lines/"
       },
       {
@@ -477,7 +484,7 @@
          "name" : "G Media Pty Ltd",
          "position" : "Lead Programmer",
          "startDate" : "2007-11-30",
-         "summary" : "Architect and implementation lead for a custom in-house subscription-based multimedia <strong>content management system</strong>.<ul><li>Develop frameworks and standards for next generation content management.</li><li>Develop and maintain internal software systems for <strong>asset management</strong>, <strong>customer support</strong>, <strong>marketing</strong>, <strong>project management</strong>, <strong>customer support</strong>, <strong>payments processing</strong>, and <strong>continuous integration</strong> use.</li><li>Architect for <strong>XML/XLST</strong> based content management system with an emphasis on <strong>multi-lingual content delivery</strong> (<strong>i18n</strong>/<strong>l10n</strong>) and efficient separation of front-end and back-end concerns.</li></ul>",
+         "summary" : "Architect and implementation lead for a custom in-house subscription-based multimedia <strong>content management system</strong>.<ul><li>Developed frameworks and standards for next generation content management.</li><li>Developed and maintained internal software systems for <strong>asset management</strong>, <strong>customer support</strong>, <strong>marketing</strong>, <strong>project management</strong>, <strong>customer support</strong>, <strong>payments processing</strong>, and <strong>continuous integration</strong> use.</li><li>Architect for <strong>XML/XLST</strong> based content management system with an emphasis on <strong>multi-lingual content delivery</strong> (<strong>i18n</strong>/<strong>l10n</strong>) and efficient separation of front-end and back-end concerns.</li></ul>",
          "url" : "https://www.linkedin.com/company/g-media-pty-ltd/"
       },
       {

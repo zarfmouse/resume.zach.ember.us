@@ -68,7 +68,6 @@ html, body {
 
 .cover > img {
      width: 100%;
-     min-height: 500px;
 }
 
 .progress-bar {
@@ -118,7 +117,7 @@ p {
 
 @media (max-width: 424px) {
     .cover {
-	height: 600px;
+	height: 400px;
     }
 }
 

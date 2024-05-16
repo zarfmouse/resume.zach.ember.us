@@ -2,16 +2,17 @@
 
 SITE_NAME="resume.zach.ember.us"
 THIS_DIR=`dirname $(readlink -f $0)`
-cd $THIS_DIR/../$SITE_NAME".jekyll/_site"
+JEKYLL_DIR=$THIS_DIR/../$SITE_NAME".jekyll"
+SITE_DIR=$JEKYLL_DIR/_site
+cd $SITE_DIR
 
 CHROME="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 CHROME_ARGS="--headless --no-pdf-header-footer --generate-pdf-document-outline --disable-gpu"
-"$CHROME" $CHROME_ARGS --print-to-pdf=../resume.pdf index.html
-"$CHROME" $CHROME_ARGS --print-to-pdf=../images/preview.pdf preview.html
-cd ../images
+"$CHROME" $CHROME_ARGS --print-to-pdf=$JEKYLL_DIR/resume.pdf index.html
+"$CHROME" $CHROME_ARGS --print-to-pdf=$JEKYLL_DIR/images/preview.pdf preview.html
+
+cd $JEKYLL_DIR/images
 convert preview.pdf preview.png
 rm preview.pdf
-
-
 
 

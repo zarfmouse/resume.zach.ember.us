@@ -12,9 +12,9 @@ height: 838px
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="crossorigin"/>
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap"/>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap" media="print" onload="this.media='all'"/>
-    <link href="css/font-awesome/css/all.min.css?ver=1.2.2" rel="stylesheet">
-    <link href="css/mdb.min.css?ver=1.2.2" rel="stylesheet">
-    <link href="css/main.css?ver=1.2.2" rel="stylesheet">
+    <link href="{{ 'css/font-awesome/css/all.min.css' | zcme_bust_cache }}" rel="stylesheet">
+    <link href="{{ 'css/mdb.min.css' | zcme_bust_cache }}" rel="stylesheet">
+    <link href="{{ 'css/main.css' | zcme_bust_cache }}" rel="stylesheet">
 
     <style>
       html, body {
@@ -65,7 +65,7 @@ height: 838px
       </div>
     </div>
 </div>
-    <script src="scripts/mdb.min.js?ver=1.2.2"></script>
-    <script src="scripts/main.js?ver=1.2.2"></script>
+    <script src="{{ 'scripts/mdb.min.js' | zcme_bust_cache }}"></script>
+    <script src="{{ 'scripts/main.js' | zcme_bust_cache }}"></script>
   </body>
 </html>

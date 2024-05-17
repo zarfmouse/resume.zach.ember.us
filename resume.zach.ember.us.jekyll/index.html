@@ -13,10 +13,10 @@
     <noscript>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap"/>
     </noscript>
-    <link href="css/font-awesome/css/all.min.css?ver=1.2.2" rel="stylesheet">
-    <link href="css/mdb.min.css?ver=1.2.2" rel="stylesheet">
-    <link href="css/aos.css?ver=1.2.2" rel="stylesheet">
-    <link href="css/main.css?ver=3" rel="stylesheet">
+    <link href="{{ 'css/font-awesome/css/all.min.css' | zcme_bust_cache }}" rel="stylesheet">
+    <link href="{{ 'css/mdb.min.css' | zcme_bust_cache }} " rel="stylesheet">
+    <link href="{{ 'css/aos.css' | zcme_bust_cache }} " rel="stylesheet">
+    <link href="{{ 'css/main.css' | zcme_bust_cache }} " rel="stylesheet">
     <meta property="og:title" content="{{ site.data.resume.basics.name | strip_html }} Resume"/>
     <meta property="og:image" content="{{ site.data.resume.meta.preview }}"/>
     <meta property="og:description" content="{{ site.data.resume.basics.summary | strip_html }}"/>
@@ -228,8 +228,8 @@
         </div>
       </div>
     </footer>
-    <script src="scripts/mdb.min.js?ver=1.2.2"></script>
-    <script src="scripts/aos.js?ver=1.2.2"></script>
-    <script src="scripts/main.js?ver=2"></script>
+    <script src="{{ 'scripts/mdb.min.js' | zcme_bust_cache }}"></script>
+    <script src="{{ 'scripts/aos.js' | zcme_bust_cache }}"></script>
+    <script src="{{ 'scripts/main.js' | zcme_bust_cache }}"></script>
   </body>
 </html>

@@ -121,7 +121,7 @@
       </div>
     </div>
   </div>
-  <div class="page-break" />
+  <div class="page-break"></div>
   <div class="shadow-1-strong bg-white my-5 p-5" id="experience">
     <div class="work-experience-section">
       <h2 class="h2 fw-light mb-4">Work Experience</h2>
@@ -154,7 +154,6 @@
           </div>
         </div>
        {% endfor %}       
-
       </div>
     </div>
   </div>
@@ -162,6 +161,7 @@
     <div class="reference-section">
       <h2 class="h2 fw-light mb-4">References</h2>
       {% for reference in site.data.resume.references %}
+        <div class="reference-card">
           <div class="d-flex mb-2">
             <div class="avatar"><img src="{{ reference.avatar }}" width="60" height="60"/></div>
             <div class="header-bio m-3 mb-0">
@@ -169,13 +169,17 @@
               <p class="text-muted text-small" data-aos="fade-left" data-aos-delay="100">{{ reference.title }}</p>
             </div>
           </div>
-          <div class="d-flex"><i class="text-secondary fas fa-quote-left"></i>
-            <p class="lead mx-2" data-aos="fade-left" data-aos-delay="100">{{ reference.reference }}</p>
+          <div class="d-flex">
+            <p class="lead mx-2" data-aos="fade-left" data-aos-delay="100">
+	      <i class="text-secondary fas fa-quote-left"></i>
+	      {{ reference.reference }}
+	      <i class="text-secondary fas fa-quote-right"></i></p>
           </div>
+	</div>
        {% endfor %}       	  
     </div>
   </div>
-  <div class="page-break" />
+  <div class="page-break"></div>
   <div class="shadow-1-strong bg-white my-5 p-5" id="skills">
     <div class="skills-section">
       <h2 class="h2 fw-light mb-4">Professional Skills</h2>

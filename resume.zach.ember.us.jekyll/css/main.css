@@ -160,7 +160,8 @@ p {
   }
   #experience,
   #education,
-  .timeline-card {
+  .timeline-card,
+  .reference-card {
       page-break-inside: avoid;
   }
   .page-break {

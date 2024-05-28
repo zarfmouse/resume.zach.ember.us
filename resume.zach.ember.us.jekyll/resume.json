@@ -104,16 +104,22 @@
    "references" : [
        {
 	   "name": "Clinton Popetz",
-	   "title": "President/CTO at Harmonize / 42 Lines, Inc",
+	   "title": "President/CTO at Harmonize / 42 Lines, Inc (2009-present)",
 	   "reference": "Zach is a very deep thinker, a person who takes the time necessary to consider all aspects of a problem and is able to analyze the costs and benefits of possible solutions. His attention to detail is unmatched. He was a crucial and valuable member of our team for many years in various roles, and his contributions were always welcome. He's also an extremely ethical, thoughtful, and empathetic human, which makes him an excellent addition to any team regardless of his specific role.",
 	   "avatar": "images/clint.jpg"
        },
        {
 	   "name": "Marcus Popetz",
-	   "title": "CEO at Harmonize / 42 Lines, Inc",
+	   "title": "CEO at Harmonize / 42 Lines, Inc (2009-present)",
 	   "reference": "Zach was a great human being to work with both in his ability to think about a problem from sides I hadn't even considered but also for considering the ethical and human aspect of all problems as well.",
 	   "avatar": "images/marcus.jpg"
-       },       
+       },
+       {
+	   "name": "Helen French",
+	   "title": "Requirements Analyst at 42 Lines, Inc (2012-2022)",
+	   "reference": "I worked with Zach for almost 10 years at 42 Lines, and came to know him as a problem solver extraordinare. He has a detailed and intuitive mind for processes, and knows where to lighten the process load, where to make it more detailed, and has the discovery skills to determine the difference. Zach is an expert at integrating business systems like Jira, Confluence, Google Docs, and basically anything with an API he can call to make things all work seamlessly together, saving hours of team time. He is also one of the most thoughtful, common-sensical Agilists I’ve ever encountered, and I am grateful to have been able to learn from him. He understands what makes teams (and distributed teams in particular) work well together and knows how to bring out the best in them. He is also a pleasure to work with, and a great person to have on any team.",
+	   "avatar": "images/helen.jpg"
+       }
    ],
    "skills" : [
       {

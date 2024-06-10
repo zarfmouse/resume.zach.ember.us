@@ -440,6 +440,16 @@
    ],
    "work" : [
       {
+         "endDate" : "",
+         "highlights" : [],
+         "location" : "Oak Park, Illinois, United States",
+         "name" : "Oddball",
+         "position" : "Senior Product Manager",
+         "startDate" : "2024-06-17",
+         "summary" : "I work collaboratively with management, engineering, and operations teams to oversee the design, creation, and seamless delivery of various products for Oddball's Centers for Medicare and Medicaid Services(CMS) Education and Coverage Online Services (ECOS) program.",
+         "url" : "https://www.linkedin.com/company/oddball/"
+      },
+      {
          "endDate" : "2022-08-31",
          "highlights" : [],
          "location" : "Chicago, Illinois, United States",
@@ -456,7 +466,7 @@
          "name" : "42 Lines Inc",
          "position" : "Director of Project Management",
          "startDate" : "2018-05-31",
-          "summary" : "As our bespoke contract software engineering company grew to <strong>support multiple clients</strong>. I was tasked with expanding the Project Management Department, adapting our processes to allow for <strong>simultaneous sprints</strong>, <strong>resource allocation</strong>, <strong>hiring processes for new roles</strong>, expansion of the company to 50 employees.<ul><li>Analysis of both individual performance metrics and project status metrics in <strong>Google Sheets</strong> and <strong>Tableau</strong> using data I extracted through APIs from <strong>JIRA</strong>, <strong>Git</strong>, <strong>Google Sheets</strong>, <strong>Confluence</strong>, <strong>Tom's Planner</strong>, <strong>Google Calendar</strong>, <strong>Tempo Timesheets</strong>, <strong>Smart Sheets</strong>, and other systems.</li><li>acted as <strong>Business Intelligence Analyst</strong>, <strong>Sales Department Manager</strong>, and <strong>QA Department Manager</strong> during times when these roles were empty</li><li><strong>Supervised</strong> a Project Manager and a Project Management Assistant.</li><li><strong>Facilitated senior management meetings</strong> and <strong>strategic retreats</strong>.</li><li>Facilitated a shift from <strong>Scrum</strong> to <strong>Kanban</strong> for mature projects.</li></ul>",
+         "summary" : "As our bespoke contract software engineering company grew to <strong>support multiple clients</strong>. I was tasked with expanding the Project Management Department, adapting our processes to allow for <strong>simultaneous sprints</strong>, <strong>resource allocation</strong>, <strong>hiring processes for new roles</strong>, expansion of the company to 50 employees.<ul><li>Analysis of both individual performance metrics and project status metrics in <strong>Google Sheets</strong> and <strong>Tableau</strong> using data I extracted through APIs from <strong>JIRA</strong>, <strong>Git</strong>, <strong>Google Sheets</strong>, <strong>Confluence</strong>, <strong>Tom's Planner</strong>, <strong>Google Calendar</strong>, <strong>Tempo Timesheets</strong>, <strong>Smart Sheets</strong>, and other systems.</li><li>acted as <strong>Business Intelligence Analyst</strong>, <strong>Sales Department Manager</strong>, and <strong>QA Department Manager</strong> during times when these roles were empty</li><li><strong>Supervised</strong> a Project Manager and a Project Management Assistant.</li><li><strong>Facilitated senior management meetings</strong> and <strong>strategic retreats</strong>.</li><li>Facilitated a shift from <strong>Scrum</strong> to <strong>Kanban</strong> for mature projects.</li></ul>",
          "url" : "https://www.linkedin.com/company/42lines/"
       },
       {

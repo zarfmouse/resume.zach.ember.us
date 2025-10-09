@@ -13,7 +13,6 @@ EMAIL;type=INTERNET;type=HOME;type=pref:zach@ember.us
 TEL;type=CELL;type=VOICE;type=pref:7738080510
 TEL;type=HOME;type=VOICE:(773) 897-9267
 ADR;type=HOME;type=pref:;;;Oak Park;IL;60304;United States
-ADR;type=WORK:;;2045 W Grand Ave Ste B\nPMB 61941;Chicago;IL;60612-1577;United States
 item1.URL;type=pref:https://ember.us
 item1.X-ABLabel:_$!<HomePage>!$_
 item2.URL:https://www.linkedin.com/in/zach-ember/
